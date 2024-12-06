@@ -1,0 +1,7 @@
+crewai 
+faiss-cpu 
+kagglehub
+langchain
+langchain_community 
+streamlit 
+seaborn
