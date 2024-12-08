@@ -1,0 +1,11 @@
+{
+    "model_name": "llama3",
+    "training_logs": [
+        {
+            "input": "Example question?",
+            "expected_answer": "Expected answer.",
+            "response": "Model response.",
+            "loss": 0.1
+        }
+    ]
+}

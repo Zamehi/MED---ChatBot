@@ -5,3 +5,7 @@ langchain
 langchain_community 
 streamlit 
 seaborn
+h5py 
+
+pip install protobuf==3.20.3
+pip install grpcio-tools==1.48.0
